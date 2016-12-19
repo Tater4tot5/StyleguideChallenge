@@ -8,7 +8,7 @@ header {margin: 0px;}
 .firstdiv {
   position: relative;
   height: 300px;
-  background:url("file:///Users/tatejanek/Desktop/TIY/TIY/week-07/day-04/StyleguideChallenge/images/pool.jpg")lightblue;
+  background:url("../images/pool.jpg")lightblue;
 }
 
 .logonav {
