@@ -1,6 +1,6 @@
 @font-face {
   font-family: "SalesforceSans-Regular";
-  src:url("file:////Users/tatejanek/Desktop/TIY/TIY/week-07/day-04/StyleguideChallenge/SalesforceSans-Regular.ttf") format('truetype');
+  src:url("../SalesforceSans-Regular.ttf") format('truetype');
 }
 
 header {margin: 0px;}
