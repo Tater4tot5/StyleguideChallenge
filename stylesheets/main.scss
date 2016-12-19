@@ -1,0 +1,29 @@
+$color-background:	#f4f6f9;
+
+$color-background-alt:	#ffffff;
+
+$color-background-alt-2: #eef1f6;
+
+$color-background-row-active: #eef1f6;
+
+$color-text-action-label-active: #16325c;
+
+$color-text-action-label: #54698d;
+
+$color-text-brand: #1589ee;
+
+$color-text-link: #0070d2;
+
+.nav {
+color: #0070d2;
+background-color: none;
+border:#d8dde6;
+line-height: 1.875rem, 30px;
+float: right;
+padding: 10px;
+}
+
+li {
+  display: inline;
+  text-decoration: none;
+}
